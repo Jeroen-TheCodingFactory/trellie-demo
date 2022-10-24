@@ -1,0 +1,84 @@
+{
+    "trellies": [
+        {
+            "title": "Video's",
+            "activities": [
+                {
+                    "description": "Trellie afmaken",
+                    "label": "Vandaag",
+                    "extraClass": ""
+                },
+                {
+                    "description": "1 video verwijderen (12?) ",
+                    "label": "Vandaag",
+                    "extraClass": ""
+                },
+                {
+                    "description": "Video's uploaden",
+                    "label": "Vandaag",
+                    "extraClass": ""
+                },
+                {
+                    "description": "Bericht in Teams zetten met links",
+                    "label": "Vandaag",
+                    "extraClass": ""
+                }
+            ]
+        },
+        {
+            "title": "Tijdens de les",
+            "activities": [
+                {
+                    "description": "Deadlines geven m.b.t. eindopdracht",
+                    "label": "Morgen",
+                    "extraClass": "tomorrow"
+                },
+                {
+                    "description": "Mail sturen met deadlines",
+                    "label": "Morgen",
+                    "extraClass": "tomorrow"
+                },
+                {
+                    "description": "Afspraak maken met student die wilt versnellen",
+                    "label": "Morgen",
+                    "extraClass": "tomorrow"
+                },
+                {
+                    "description": "SLB herrinering geven (wie wat wanneer)",
+                    "label": "Morgen",
+                    "extraClass": "tomorrow"
+                }
+            ]
+        },
+        {
+            "title": "Todo",
+            "activities": [
+                {
+                    "description": "Trellie afmaken",
+                    "label": "Vandaag",
+                    "extraClass": ""
+                },
+                {
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, provident maiores quam magni odio minima temporibus doloribus repellat inventore minus velit in, ipsum animi quae fugiat dolore, labore et explicabo. ",
+                    "label": "Morgen",
+                    "extraClass": "tomorrow"
+                },
+                {
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, provident maiores quam magni odio minima temporibus doloribus repellat inventore minus velit in, ipsum animi quae fugiat dolore, labore et explicabo. ",
+                    "label": "Weekend",
+                    "extraClass": "weekend"
+                },
+                {
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, provident maiores quam magni odio minima temporibus doloribus repellat inventore minus velit in, ipsum animi quae fugiat dolore, labore et explicabo. ",
+                    "label": "Volgende week",
+                    "extraClass": "nextWeek"
+                },
+                {
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, provident maiores quam magni odio minima temporibus doloribus repellat inventore minus velit in, ipsum animi quae fugiat dolore, labore et explicabo. ",
+                    "label": "Ooit",
+                    "extraClass": "sometime"
+                }
+            ]
+        }
+    ]
+}
