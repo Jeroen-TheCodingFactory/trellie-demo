@@ -6,8 +6,8 @@
     padding: 1rem;
     border-radius: 0.3rem;
     overflow-y: scroll;
-    height: min-content;
-
+    height:min-content;
+    max-height:90vh;
     &--hidden{
         display:none;
     }
